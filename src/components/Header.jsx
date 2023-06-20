@@ -1,3 +1,4 @@
+/* eslint-disable no-extra-semi */
 import { useState, useEffect } from "react";
 import { Link } from 'react-router-dom';
 import { CgDarkMode } from 'react-icons/cg';
